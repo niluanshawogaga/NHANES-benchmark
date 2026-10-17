@@ -1,0 +1,9 @@
+models/
+__pycache__/
+*.pyc
+data/raw/
+data/slices/
+.venv/
+*.aux
+*.log
+*.synctex.gz
