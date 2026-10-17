@@ -1,5 +1,7 @@
 # Design-aware population estimation benchmark (NHANES)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23432048.svg)](https://doi.org/10.5281/zenodo.23432048)
+
 This repository contains the benchmark, the reference implementation, the raw
 model completions and the scoring code of a study that asks whether large
 language models can compute design-weighted population quantities from complex
