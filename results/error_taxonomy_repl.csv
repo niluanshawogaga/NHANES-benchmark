@@ -1,0 +1,10 @@
+model,mode,failure,count
+deepseek-flash,code,execution_error,22
+deepseek-flash,code,not_applicable,21
+deepseek-flash,code,unweighted_route,4
+deepseek-flash,code,weighted_but_inaccurate,4
+deepseek-flash,direct,no_answer,15
+deepseek-flash,direct,ranking_mismatch,8
+deepseek-flash,direct,unweighted_route,2
+deepseek-flash,direct,weighted_but_inaccurate,56
+deepseek-flash,direct,wrong_weight_variable,1

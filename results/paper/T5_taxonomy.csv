@@ -1,0 +1,11 @@
+Model,Protocol,most frequent,second,third,fourth,fifth
+deepseek-flash,Direct,weighted_but_inaccurate (55%),hit (13%),ranking_mismatch (11%),no_answer (10%),unweighted_route (10%)
+deepseek-flash,Code,hit (54%),execution_error (33%),weighted_but_inaccurate (7%),unweighted_route (2%),no_answer (2%)
+deepseek-v4-pro,Direct,weighted_but_inaccurate (58%),hit (14%),ranking_mismatch (14%),unweighted_route (8%),no_answer (4%)
+deepseek-v4-pro,Code,hit (61%),execution_error (23%),unweighted_route (6%),weighted_but_inaccurate (5%),no_weight_used (3%)
+phi-3.5-mini,Direct,weighted_but_inaccurate (54%),no_answer (37%),ranking_mismatch (6%),unweighted_route (2%),hit (1%)
+phi-3.5-mini,Code,unweighted_route (41%),execution_error (24%),no_weight_used (13%),hit (11%),weighted_but_inaccurate (10%)
+qwen2.5-3b,Direct,weighted_but_inaccurate (74%),no_answer (17%),ranking_mismatch (6%),wrong_weight_variable (2%),hit (1%)
+qwen2.5-3b,Code,execution_error (69%),unweighted_route (9%),hit (9%),no_weight_used (8%),weighted_but_inaccurate (3%)
+qwen2.5-7b,Direct,weighted_but_inaccurate (74%),no_answer (12%),ranking_mismatch (10%),wrong_weight_variable (2%),unweighted_route (1%)
+qwen2.5-7b,Code,execution_error (41%),weighted_but_inaccurate (19%),hit (16%),unweighted_route (11%),wrong_weight_variable (8%)

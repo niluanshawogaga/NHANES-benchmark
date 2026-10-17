@@ -1,0 +1,498 @@
+{
+ "SEQN": {
+  "label": "Respondent sequence number",
+  "text": "Respondent sequence number",
+  "values": {}
+ },
+ "ALQ111": {
+  "label": "Ever had a drink of any kind of alcohol",
+  "text": "Ever had a drink of any kind of alcohol",
+  "values": {
+   "1": {
+    "label": "Yes",
+    "count": "4545"
+   },
+   "2": {
+    "label": "No",
+    "count": "585"
+   },
+   "7": {
+    "label": "Refused",
+    "count": "0"
+   },
+   "9": {
+    "label": "Don't know",
+    "count": "0"
+   }
+  }
+ },
+ "ALQ130": {
+  "label": "Avg # alcohol drinks/day - past 12 mos",
+  "text": "Avg # alcohol drinks/day - past 12 mos",
+  "values": {
+   "15": {
+    "label": "15 drinks or more",
+    "count": "19"
+   },
+   "777": {
+    "label": "Refused",
+    "count": "1"
+   },
+   "999": {
+    "label": "Don't know",
+    "count": "5"
+   }
+  }
+ },
+ "BMXWT": {
+  "label": "Weight (kg)",
+  "text": "Weight (kg)",
+  "values": {}
+ },
+ "BMXHT": {
+  "label": "Standing Height (cm)",
+  "text": "Standing Height (cm)",
+  "values": {}
+ },
+ "BMXBMI": {
+  "label": "Body Mass Index (kg/m**2)",
+  "text": "Body Mass Index (kg/m**2)",
+  "values": {}
+ },
+ "BMXWAIST": {
+  "label": "Waist Circumference (cm)",
+  "text": "Waist Circumference (cm)",
+  "values": {}
+ },
+ "DBQ700": {
+  "label": "How healthy is the diet",
+  "text": "How healthy is the diet",
+  "values": {
+   "1": {
+    "label": "Excellent",
+    "count": "471"
+   },
+   "2": {
+    "label": "Very good",
+    "count": "1241"
+   },
+   "3": {
+    "label": "Good",
+    "count": "2411"
+   },
+   "4": {
+    "label": "Fair",
+    "count": "1619"
+   },
+   "5": {
+    "label": "Poor",
+    "count": "417"
+   },
+   "7": {
+    "label": "Refused",
+    "count": "0"
+   },
+   "9": {
+    "label": "Don't know",
+    "count": "2"
+   }
+  }
+ },
+ "RIAGENDR": {
+  "label": "Gender",
+  "text": "Gender",
+  "values": {
+   "1": {
+    "label": "Male",
+    "count": "4557"
+   },
+   "2": {
+    "label": "Female",
+    "count": "4697"
+   }
+  }
+ },
+ "RIDAGEYR": {
+  "label": "Age in years at screening",
+  "text": "Age in years at screening",
+  "values": {
+   "80": {
+    "label": "80 years of age and over",
+    "count": "427"
+   }
+  }
+ },
+ "RIDRETH1": {
+  "label": "Race/Hispanic origin",
+  "text": "Race/Hispanic origin",
+  "values": {
+   "1": {
+    "label": "Mexican American",
+    "count": "1367"
+   },
+   "2": {
+    "label": "Other Hispanic",
+    "count": "820"
+   },
+   "3": {
+    "label": "Non-Hispanic White",
+    "count": "3150"
+   },
+   "4": {
+    "label": "Non-Hispanic Black",
+    "count": "2115"
+   },
+   "5": {
+    "label": "Other Race - Including Multi-Racial",
+    "count": "1802"
+   }
+  }
+ },
+ "DMDEDUC2": {
+  "label": "Education level - Adults 20+",
+  "text": "Education level - Adults 20+",
+  "values": {
+   "1": {
+    "label": "Less than 9th grade",
+    "count": "479"
+   },
+   "2": {
+    "label": "9-11th grade (Includes 12th grade with no diploma)",
+    "count": "638"
+   },
+   "3": {
+    "label": "High school graduate/GED or equivalent",
+    "count": "1325"
+   },
+   "4": {
+    "label": "Some college or AA degree",
+    "count": "1778"
+   },
+   "5": {
+    "label": "College graduate or above",
+    "count": "1336"
+   },
+   "7": {
+    "label": "Refused",
+    "count": "2"
+   },
+   "9": {
+    "label": "Don't know",
+    "count": "11"
+   }
+  }
+ },
+ "DMDMARTL": {
+  "label": "Marital status",
+  "text": "Marital status",
+  "values": {
+   "1": {
+    "label": "Married",
+    "count": "2737"
+   },
+   "2": {
+    "label": "Widowed",
+    "count": "462"
+   },
+   "3": {
+    "label": "Divorced",
+    "count": "641"
+   },
+   "4": {
+    "label": "Separated",
+    "count": "202"
+   },
+   "5": {
+    "label": "Never married",
+    "count": "1006"
+   },
+   "6": {
+    "label": "Living with partner",
+    "count": "515"
+   },
+   "77": {
+    "label": "Refused",
+    "count": "6"
+   },
+   "99": {
+    "label": "Don't know",
+    "count": "0"
+   }
+  }
+ },
+ "WTINT2YR": {
+  "label": "Full sample 2 year interview weight",
+  "text": "Full sample 2 year interview weight",
+  "values": {}
+ },
+ "WTMEC2YR": {
+  "label": "Full sample 2 year MEC exam weight",
+  "text": "Full sample 2 year MEC exam weight",
+  "values": {
+   "0": {
+    "label": "Not MEC Examined",
+    "count": "550"
+   }
+  }
+ },
+ "SDMVPSU": {
+  "label": "Masked variance pseudo-PSU",
+  "text": "Masked variance pseudo-PSU",
+  "values": {}
+ },
+ "SDMVSTRA": {
+  "label": "Masked variance pseudo-stratum",
+  "text": "Masked variance pseudo-stratum",
+  "values": {}
+ },
+ "INDFMPIR": {
+  "label": "Ratio of family income to poverty",
+  "text": "Ratio of family income to poverty",
+  "values": {
+   "5": {
+    "label": "Value greater than or equal to 5.00",
+    "count": "1208"
+   }
+  }
+ },
+ "WTDRD1": {
+  "label": "Dietary day one sample weight",
+  "text": "Dietary day one sample weight",
+  "values": {
+   "0": {
+    "label": "Day 1 dietary recall not done/incomplete",
+    "count": "1063"
+   }
+  }
+ },
+ "DR1DRSTZ": {
+  "label": "Dietary recall status",
+  "text": "Dietary recall status",
+  "values": {
+   "1": {
+    "label": "Reliable and met the minimum criteria",
+    "count": "7484"
+   },
+   "2": {
+    "label": "Not reliable or not met the minimum criteria",
+    "count": "87"
+   },
+   "4": {
+    "label": "Reported consuming breast-milk",
+    "count": "157"
+   },
+   "5": {
+    "label": "Not done",
+    "count": "976"
+   }
+  }
+ },
+ "DR1TKCAL": {
+  "label": "Energy (kcal)",
+  "text": "Energy (kcal)",
+  "values": {}
+ },
+ "DR1TPROT": {
+  "label": "Protein (gm)",
+  "text": "Protein (gm)",
+  "values": {}
+ },
+ "DR1TCARB": {
+  "label": "Carbohydrate (gm)",
+  "text": "Carbohydrate (gm)",
+  "values": {}
+ },
+ "DR1TSUGR": {
+  "label": "Total sugars (gm)",
+  "text": "Total sugars (gm)",
+  "values": {}
+ },
+ "DR1TFIBE": {
+  "label": "Dietary fiber (gm)",
+  "text": "Dietary fiber (gm)",
+  "values": {}
+ },
+ "DR1TVC": {
+  "label": "Vitamin C (mg)",
+  "text": "Vitamin C (mg)",
+  "values": {}
+ },
+ "DR1TCALC": {
+  "label": "Calcium (mg)",
+  "text": "Calcium (mg)",
+  "values": {}
+ },
+ "DR1TSODI": {
+  "label": "Sodium (mg)",
+  "text": "Sodium (mg)",
+  "values": {}
+ },
+ "PAQ605": {
+  "label": "Vigorous work activity",
+  "text": "Vigorous work activity",
+  "values": {
+   "1": {
+    "label": "Yes",
+    "count": "1389"
+   },
+   "2": {
+    "label": "No",
+    "count": "4461"
+   },
+   "7": {
+    "label": "Refused",
+    "count": "0"
+   },
+   "9": {
+    "label": "Don't know",
+    "count": "6"
+   }
+  }
+ },
+ "PAQ620": {
+  "label": "Moderate work activity",
+  "text": "Moderate work activity",
+  "values": {
+   "1": {
+    "label": "Yes",
+    "count": "2439"
+   },
+   "2": {
+    "label": "No",
+    "count": "3412"
+   },
+   "7": {
+    "label": "Refused",
+    "count": "0"
+   },
+   "9": {
+    "label": "Don't know",
+    "count": "5"
+   }
+  }
+ },
+ "PAQ650": {
+  "label": "Vigorous recreational activities",
+  "text": "Vigorous recreational activities",
+  "values": {
+   "1": {
+    "label": "Yes",
+    "count": "1434"
+   },
+   "2": {
+    "label": "No",
+    "count": "4422"
+   },
+   "7": {
+    "label": "Refused",
+    "count": "0"
+   },
+   "9": {
+    "label": "Don't know",
+    "count": "0"
+   }
+  }
+ },
+ "PAQ665": {
+  "label": "Moderate recreational activities",
+  "text": "Moderate recreational activities",
+  "values": {
+   "1": {
+    "label": "Yes",
+    "count": "2308"
+   },
+   "2": {
+    "label": "No",
+    "count": "3548"
+   },
+   "7": {
+    "label": "Refused",
+    "count": "0"
+   },
+   "9": {
+    "label": "Don't know",
+    "count": "0"
+   }
+  }
+ },
+ "SLD012": {
+  "label": "Sleep hours - weekdays or workdays",
+  "text": "Sleep hours - weekdays or workdays",
+  "values": {
+   "2": {
+    "label": "Less then 3 hours",
+    "count": "27"
+   },
+   "14": {
+    "label": "14 hours or more",
+    "count": "13"
+   }
+  }
+ },
+ "SMQ020": {
+  "label": "Smoked at least 100 cigarettes in life",
+  "text": "Smoked at least 100 cigarettes in life",
+  "values": {
+   "1": {
+    "label": "Yes",
+    "count": "2359"
+   },
+   "2": {
+    "label": "No",
+    "count": "3497"
+   },
+   "7": {
+    "label": "Refused",
+    "count": "0"
+   },
+   "9": {
+    "label": "Don't know",
+    "count": "0"
+   }
+  }
+ },
+ "SMD030": {
+  "label": "Age started smoking cigarettes regularly",
+  "text": "Age started smoking cigarettes regularly",
+  "values": {
+   "0": {
+    "label": "Never smoked cigarettes regularly",
+    "count": "62"
+   },
+   "777": {
+    "label": "Refused",
+    "count": "0"
+   },
+   "999": {
+    "label": "Don't know",
+    "count": "12"
+   }
+  }
+ },
+ "SMQ040": {
+  "label": "Do you now smoke cigarettes?",
+  "text": "Do you now smoke cigarettes?",
+  "values": {
+   "1": {
+    "label": "Every day",
+    "count": "805"
+   },
+   "2": {
+    "label": "Some days",
+    "count": "216"
+   },
+   "3": {
+    "label": "Not at all",
+    "count": "1338"
+   },
+   "7": {
+    "label": "Refused",
+    "count": "0"
+   },
+   "9": {
+    "label": "Don't know",
+    "count": "0"
+   }
+  }
+ }
+}

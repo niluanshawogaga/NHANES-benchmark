@@ -1,0 +1,10 @@
+Condition,n,hit rate,95% low,95% high
+"Replication cycle, direct",100,0.180,0.110,0.260
+"Replication cycle, code",79,0.620,0.506,0.722
+"Extract 250 rows, direct",74,0.203,0.108,0.297
+"Extract 250 rows, code",53,0.698,0.566,0.811
+"Extract 500 rows, direct",74,0.216,0.122,0.311
+"Extract 500 rows, code",53,0.679,0.566,0.792
+"Paraphrased question, direct",100,0.140,0.070,0.210
+"JSON serialisation, direct",100,0.100,0.040,0.160
+"Markdown format, direct",100,0.110,0.050,0.170

@@ -1,0 +1,332 @@
+{
+ "continuous": {
+  "bmi": {
+   "label": "Body mass index",
+   "unit": "kg/m2",
+   "weight_class": "exam",
+   "min_age": 20,
+   "analysis_n": 5406
+  },
+  "waist_cm": {
+   "label": "Waist circumference",
+   "unit": "cm",
+   "weight_class": "exam",
+   "min_age": 20,
+   "analysis_n": 5116
+  },
+  "weight_kg": {
+   "label": "Body weight",
+   "unit": "kg",
+   "weight_class": "exam",
+   "min_age": 20,
+   "analysis_n": 5410
+  },
+  "height_cm": {
+   "label": "Standing height",
+   "unit": "cm",
+   "weight_class": "exam",
+   "min_age": 20,
+   "analysis_n": 5417
+  },
+  "age_years": {
+   "label": "Age at interview",
+   "unit": "years",
+   "weight_class": "interview",
+   "min_age": 0,
+   "analysis_n": 9971
+  },
+  "income_pir": {
+   "label": "Family income to poverty ratio",
+   "unit": "ratio",
+   "weight_class": "interview",
+   "min_age": 20,
+   "analysis_n": 5082
+  },
+  "sleep_hours": {
+   "label": "Usual sleep hours on weekdays",
+   "unit": "hours",
+   "weight_class": "interview",
+   "min_age": 20,
+   "analysis_n": 5686
+  },
+  "energy_kcal": {
+   "label": "Total energy intake, day 1 recall",
+   "unit": "kcal",
+   "weight_class": "dietary",
+   "min_age": 20,
+   "analysis_n": 5017
+  },
+  "protein_g": {
+   "label": "Total protein intake, day 1 recall",
+   "unit": "g",
+   "weight_class": "dietary",
+   "min_age": 20,
+   "analysis_n": 5017
+  },
+  "carb_g": {
+   "label": "Total carbohydrate intake, day 1 recall",
+   "unit": "g",
+   "weight_class": "dietary",
+   "min_age": 20,
+   "analysis_n": 5017
+  },
+  "sugar_g": {
+   "label": "Total sugars intake, day 1 recall",
+   "unit": "g",
+   "weight_class": "dietary",
+   "min_age": 20,
+   "analysis_n": 5017
+  },
+  "fiber_g": {
+   "label": "Total dietary fiber intake, day 1 recall",
+   "unit": "g",
+   "weight_class": "dietary",
+   "min_age": 20,
+   "analysis_n": 5017
+  },
+  "sodium_mg": {
+   "label": "Total sodium intake, day 1 recall",
+   "unit": "mg",
+   "weight_class": "dietary",
+   "min_age": 20,
+   "analysis_n": 5017
+  },
+  "vitc_mg": {
+   "label": "Total vitamin C intake, day 1 recall",
+   "unit": "mg",
+   "weight_class": "dietary",
+   "min_age": 20,
+   "analysis_n": 5017
+  },
+  "calcium_mg": {
+   "label": "Total calcium intake, day 1 recall",
+   "unit": "mg",
+   "weight_class": "dietary",
+   "min_age": 20,
+   "analysis_n": 5017
+  }
+ },
+ "binary": {
+  "obesity": {
+   "label": "Obesity (BMI at or above 30.0)",
+   "weight_class": "exam",
+   "min_age": 20,
+   "analysis_n": 5406,
+   "prevalence_unweighted": 0.4047
+  },
+  "overweight": {
+   "label": "Overweight or obesity (BMI at or above 25.0)",
+   "weight_class": "exam",
+   "min_age": 20,
+   "analysis_n": 5406,
+   "prevalence_unweighted": 0.7253
+  },
+  "abdominal_obesity": {
+   "label": "Abdominal obesity (waist at or above 102 cm for men, 88 cm for women)",
+   "weight_class": "exam",
+   "min_age": 20,
+   "analysis_n": 5116,
+   "prevalence_unweighted": 0.5893
+  },
+  "current_smoker": {
+   "label": "Currently smokes cigarettes",
+   "weight_class": "interview",
+   "min_age": 20,
+   "analysis_n": 5708,
+   "prevalence_unweighted": 0.1426
+  },
+  "former_smoker": {
+   "label": "Smoked at least 100 cigarettes but does not smoke now",
+   "weight_class": "interview",
+   "min_age": 20,
+   "analysis_n": 5708,
+   "prevalence_unweighted": 0.2311
+  },
+  "short_sleep": {
+   "label": "Usual weekday sleep below 7 hours",
+   "weight_class": "interview",
+   "min_age": 20,
+   "analysis_n": 5686,
+   "prevalence_unweighted": 0.2248
+  },
+  "inactive_leisure": {
+   "label": "No vigorous and no moderate leisure-time physical activity",
+   "weight_class": "interview",
+   "min_age": 20,
+   "analysis_n": 5714,
+   "prevalence_unweighted": 0.5184
+  },
+  "low_income": {
+   "label": "Family income below 1.3 times the poverty threshold",
+   "weight_class": "interview",
+   "min_age": 20,
+   "analysis_n": 5082,
+   "prevalence_unweighted": 0.3237
+  },
+  "college_graduate": {
+   "label": "Completed college or above",
+   "weight_class": "interview",
+   "min_age": 20,
+   "analysis_n": 5714,
+   "prevalence_unweighted": 0.2489
+  },
+  "heavy_drinker": {
+   "label": "Two or more alcoholic drinks per day on average",
+   "weight_class": "interview",
+   "min_age": 20,
+   "analysis_n": 4957,
+   "prevalence_unweighted": 0.4283
+  },
+  "poor_diet_selfreport": {
+   "label": "Self-rated diet fair or poor",
+   "weight_class": "interview",
+   "min_age": 20,
+   "analysis_n": 5718,
+   "prevalence_unweighted": 0.3293
+  }
+ },
+ "subgroups": {
+  "sex": {
+   "column": "sex",
+   "label": "Sex",
+   "levels": [
+    "1",
+    "2"
+   ],
+   "level_labels": {
+    "1": "Male",
+    "2": "Female"
+   },
+   "n_by_level": {
+    "1": 4892,
+    "2": 5079
+   }
+  },
+  "race": {
+   "column": "race",
+   "label": "Race and Hispanic origin",
+   "levels": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "level_labels": {
+    "1": "Mexican American",
+    "2": "Other Hispanic",
+    "3": "Non-Hispanic White",
+    "4": "Non-Hispanic Black",
+    "5": "Other race, including multi-racial"
+   },
+   "n_by_level": {
+    "1": 1921,
+    "2": 1308,
+    "3": 3066,
+    "4": 2129,
+    "5": 1547
+   }
+  },
+  "education": {
+   "column": "education",
+   "label": "Education (adults 20+)",
+   "levels": [
+    "college",
+    "hs",
+    "lt_hs"
+   ],
+   "level_labels": {
+    "lt_hs": "Less than high school",
+    "hs": "High school graduate or GED",
+    "college": "Some college or above"
+   },
+   "n_by_level": {
+    "college": 3114,
+    "hs": 1236,
+    "lt_hs": 1364
+   }
+  },
+  "income_q": {
+   "column": "income_q",
+   "label": "Family income to poverty ratio quartile",
+   "levels": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "level_labels": {
+    "1": "PIR quartile 1 (lowest)",
+    "2": "PIR quartile 2",
+    "3": "PIR quartile 3",
+    "4": "PIR quartile 4 (highest)"
+   },
+   "n_by_level": {
+    "1": 1287,
+    "2": 1258,
+    "3": 1268,
+    "4": 1269
+   }
+  },
+  "age_group": {
+   "column": "age_group",
+   "label": "Age group",
+   "levels": [
+    "20-29",
+    "30-44",
+    "45-59",
+    "60+"
+   ],
+   "level_labels": {
+    "20-29": "20-29 years",
+    "30-44": "30-44 years",
+    "45-59": "45-59 years",
+    "60+": "60 years or older"
+   },
+   "n_by_level": {
+    "20-29": 974,
+    "30-44": 1453,
+    "45-59": 1391,
+    "60+": 1901
+   }
+  },
+  "marital": {
+   "column": "marital",
+   "label": "Marital status",
+   "levels": [
+    "formerly",
+    "married",
+    "never"
+   ],
+   "level_labels": {
+    "married": "Married or living with partner",
+    "formerly": "Widowed, divorced or separated",
+    "never": "Never married"
+   },
+   "n_by_level": {
+    "formerly": 1227,
+    "married": 3441,
+    "never": 1048
+   }
+  }
+ },
+ "weights": {
+  "interview": {
+   "column": "WTINT2YR",
+   "n_nonmissing": 9971,
+   "sum_millions": 316.5
+  },
+  "exam": {
+   "column": "WTMEC2YR",
+   "n_nonmissing": 9971,
+   "sum_millions": 316.5
+  },
+  "dietary": {
+   "column": "WTDRD1",
+   "n_nonmissing": 9544,
+   "sum_millions": 316.5
+  }
+ },
+ "cycle": "2015-2016",
+ "n_rows": 9971
+}

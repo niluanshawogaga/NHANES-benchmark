@@ -1,0 +1,6 @@
+Model,Code,Spec + free code,Spec + constrained code,Spec + constrained code + gate
+deepseek-flash,0.537,0.532,0.797,0.544
+deepseek-v4-pro,0.613,0.519,0.595,0.392
+phi-3.5-mini,0.114,0.190,0.177,0.089
+qwen2.5-3b,0.087,0.063,0.063,0.038
+qwen2.5-7b,0.165,0.051,0.101,0.013

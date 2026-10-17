@@ -1,0 +1,194 @@
+[
+ {
+  "status": "VERIFIED_BY_DOI",
+  "doi": "10.1109/ACCESS.2026.3728618",
+  "title": "Complexity-Tiered Text-to-SQL Performance of Large Language Models in Smart-City Decision Support",
+  "year": 2026,
+  "n": 1,
+  "entry": "W. Alnahari, T. Hasanin, and S. Jambi, \"Complexity-tiered Text-to-SQL performance of large language models in smart-city decision support,\" IEEE Acces"
+ },
+ {
+  "status": "VERIFIED_BY_DOI",
+  "doi": "10.1109/ACCESS.2026.3696456",
+  "title": "Automated Resume Evaluation Using Large Language Models: A Multi-Agent Framework With Fine-Tuning and Prompt E",
+  "year": 2026,
+  "n": 2,
+  "entry": "M. S. Chowdhury, A. F. Chowdhury, A. Banu, R. Hossain, and M. H. Chowdhury, \"Automated resume evaluation using large language models: a multi-agent fr"
+ },
+ {
+  "status": "VERIFIED_BY_TITLE",
+  "title": "Out of One, Many: Using Language Models to Simulate Human Samples",
+  "overlap": 0.91,
+  "year": 2023,
+  "n": 3,
+  "entry": "L. P. Argyle, E. C. Busby, N. Fulda, J. R. Gubler, C. Rytting, and D. Wingate, \"Out of one, many: using language models to simulate human samples,\" Po"
+ },
+ {
+  "status": "TITLE_WEAK_MATCH",
+  "title": "Review for \"The threat of analytic flexibility in using large language models to simulate human data\"",
+  "overlap": 0.54,
+  "year": 2025,
+  "n": 4,
+  "entry": "G. Aher, R. I. Arriaga, and A. T. Kalai, \"Using large language models to simulate multiple humans and replicate human subject studies,\" in Proc. 40th "
+ },
+ {
+  "status": "VERIFIED_BY_TITLE",
+  "title": "Can AI language models replace human participants?",
+  "overlap": 0.75,
+  "year": 2023,
+  "n": 5,
+  "entry": "D. Dillion, N. Tandon, Y. Gu, and K. Gray, \"Can AI language models replace human participants?,\" Trends in Cognitive Sciences, vol. 27, no. 7, pp. 597"
+ },
+ {
+  "status": "VERIFIED_BY_TITLE",
+  "title": "Do LLMs Exhibit Human-like Response Biases? A Case Study in Survey Design",
+  "overlap": 0.83,
+  "year": 2024,
+  "n": 6,
+  "entry": "L. Tjuatja, V. Chen, T. Wu, A. Talwalkar, and G. Neubig, \"Do LLMs exhibit human-like response biases? A case study in survey design,\" Transactions of "
+ },
+ {
+  "status": "VERIFIED_BY_TITLE",
+  "title": "Synthetic Replacements for Human Survey Data? The Perils of Large Language Models",
+  "overlap": 0.83,
+  "year": 2023,
+  "n": 7,
+  "entry": "J. Bisbee, J. D. Clinton, C. Dorff, B. Kenkel, and J. M. Larson, \"Synthetic replacements for human survey data? The perils of large language models,\" "
+ },
+ {
+  "status": "VERIFIED_BY_DOI",
+  "doi": "10.1109/ACCESS.2026.3708863",
+  "title": "Cost-Effective Entity Matching With Large Language Models and Diversity-Aware Example Selection",
+  "year": 2026,
+  "n": 8,
+  "entry": "K. Akashi, M. Ogawa, and K. Tayama, \"Cost-effective entity matching with large language models and diversity-aware example selection,\" IEEE Access, vo"
+ },
+ {
+  "status": "VERIFIED_BY_DOI",
+  "doi": "10.1109/ACCESS.2026.3696617",
+  "title": "Evaluating Large Language Models for Generating YouTube Programming Tutorial Metadata From Video Transcripts",
+  "year": 2026,
+  "n": 9,
+  "entry": "M. D. Alahmadi, \"Evaluating large language models for generating YouTube programming tutorial metadata from video transcripts,\" IEEE Access, vol. 14, "
+ },
+ {
+  "status": "TITLE_WEAK_MATCH",
+  "title": "Survey Sampling. By Leslie Kish. (New York: John Wiley &amp; Sons, Inc., 1965. Pp. xvi, 643. $10.95.)",
+  "overlap": 0.1,
+  "year": 1965,
+  "n": 10,
+  "entry": "L. Kish, Survey Sampling. New York, NY, USA: Wiley, 1965."
+ },
+ {
+  "status": "VERIFIED_BY_TITLE",
+  "title": "On a Least Squares Adjustment of a Sampled Frequency Table When the Expected Marginal Totals are Known",
+  "overlap": 0.94,
+  "year": 1940,
+  "n": 11,
+  "entry": "W. E. Deming and F. F. Stephan, \"On a least squares adjustment of a sampled frequency table when the expected marginal totals are known,\" The Annals o"
+ },
+ {
+  "status": "VERIFIED_BY_TITLE",
+  "title": "Faculty Opinions recommendation of The FAIR Guiding Principles for scientific data management and stewardship.",
+  "overlap": 0.9,
+  "year": 2018,
+  "n": 12,
+  "entry": "M. D. Wilkinson et al., \"The FAIR guiding principles for scientific data management and stewardship,\" Scientific Data, vol. 3, 2016, Art. no. 160018."
+ },
+ {
+  "status": "VERIFIED_BY_TITLE",
+  "title": "Confidence Intervals for Medians and Other Position Measures",
+  "overlap": 0.88,
+  "year": 1952,
+  "n": 13,
+  "entry": "R. S. Woodruff, \"Confidence intervals for medians and other position measures,\" Journal of the American Statistical Association, vol. 47, no. 260, pp."
+ },
+ {
+  "status": "VERIFIED_BY_TITLE",
+  "title": "Can Large Language Models Transform Computational Social\n                    Science?",
+  "overlap": 0.78,
+  "year": 2024,
+  "n": 14,
+  "entry": "C. Ziems et al., \"Can large language models transform computational social science?,\" Computational Linguistics, vol. 50, no. 1, pp. 237-291, 2024."
+ },
+ {
+  "status": "VERIFIED_BY_TITLE",
+  "title": "Survey Response Generation: Generating Closed-Ended Survey Responses In-Silico with Large Language Models",
+  "overlap": 0.91,
+  "year": 2026,
+  "n": 15,
+  "entry": "G. Ahnert, A. C. Haensch, B. Plank, and M. G. M. van der Meij, \"Survey response generation: generating closed-ended survey responses in-silico with la"
+ },
+ {
+  "status": "VERIFIED_BY_TITLE",
+  "title": "Adjusting the Outputs of a Classifier to New a\n                    <i>Priori</i>\n                    Probabili",
+  "overlap": 0.83,
+  "year": 2002,
+  "n": 16,
+  "entry": "M. Saerens, P. Latinne, and C. Decaestecker, \"Adjusting the outputs of a classifier to new a priori probabilities: a simple procedure,\" Neural Computa"
+ },
+ {
+  "status": "VERIFIED_BY_TITLE",
+  "title": "InstructPatentGPT: training patent language models to follow instructions with human feedback",
+  "overlap": 0.89,
+  "year": 2024,
+  "n": 17,
+  "entry": "L. Ouyang et al., \"Training language models to follow instructions with human feedback,\" in Advances in Neural Information Processing Systems 35, 2022"
+ },
+ {
+  "status": "VERIFIED_BY_DOI",
+  "doi": "10.1109/ACCESS.2026.3707409",
+  "title": "A Comprehensive Empirical Evaluation of Token-Oriented Object Notation (TOON) for Large Language Model Applica",
+  "year": 2026,
+  "n": 18,
+  "entry": "K. Ahaidous, L. Aarif, J. Schopplich, M. Tabaa, and H. Hachimi, \"A comprehensive empirical evaluation of token-oriented object notation (TOON) for lar"
+ },
+ {
+  "status": "VERIFIED_BY_DOI",
+  "doi": "10.1109/ACCESS.2026.3669650",
+  "title": "Evaluating Bias Detection and Mitigation Approaches Across Classical and Large Language Models",
+  "year": 2026,
+  "n": 19,
+  "entry": "S. Anand, A. Gopinath, and K. Periyasami, \"Evaluating bias detection and mitigation approaches across classical and large language models,\" IEEE Acces"
+ },
+ {
+  "status": "VERIFIED_BY_DOI",
+  "doi": "10.1109/ACCESS.2026.3727881",
+  "title": "DSM-Guided Large Language Model Reasoning for Depression and PTSD Assessment From Psychiatric Interview Transc",
+  "year": 2026,
+  "n": 20,
+  "entry": "J.-W. Kim et al., \"DSM-guided large language model reasoning for depression and PTSD assessment from psychiatric interview transcripts,\" IEEE Access, "
+ },
+ {
+  "status": "VERIFIED_BY_DOI",
+  "doi": "10.1109/ACCESS.2026.3652006",
+  "title": "MCQs Generation With Large Language Models: A Survey of Methodologies, Evolution, and Open Research Issues",
+  "year": 2026,
+  "n": 21,
+  "entry": "M. R. Anwar, S. Khalid, S. Alshahrani, H. S. M. Bilal, and M. Aldawsari, \"MCQs generation with large language models: a survey of methodologies, evolu"
+ },
+ {
+  "status": "VERIFIED_BY_DOI",
+  "doi": "10.1109/ACCESS.2026.3680004",
+  "title": "NLP-Driven Knowledge Graph Construction From Informal Text Using Large Language Models",
+  "year": 2026,
+  "n": 22,
+  "entry": "L. Afzal, M. Awais, M. Q. Wali, U. Ahmed, M. S. A. Malik, and A. Muslim, \"NLP-driven knowledge graph construction from informal text using large langu"
+ },
+ {
+  "status": "VERIFIED_BY_DOI",
+  "doi": "10.1109/ACCESS.2026.3737802",
+  "title": "SLIM-KT: Transferring Large Language Model Item Semantics into a Lightweight, Cold-Start-Robust Knowledge Trac",
+  "year": 2026,
+  "n": 23,
+  "entry": "Y. Guo, S. Zheng, and P. Peng, \"SLIM-KT: transferring large language model item semantics into a lightweight, cold-start-robust knowledge tracing mode"
+ },
+ {
+  "status": "TITLE_WEAK_MATCH",
+  "title": "NHSR 155: Comparative Analysis of the National Health and Nutrition Examination Survey Public-Use and Restrict",
+  "overlap": 0.58,
+  "year": 2021,
+  "n": 24,
+  "entry": "Centers for Disease Control and Prevention, National Center for Health Statistics, \"National Health and Nutrition Examination Survey, 2017-2018 and 20"
+ }
+]

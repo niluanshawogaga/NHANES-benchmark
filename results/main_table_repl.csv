@@ -1,0 +1,3 @@
+hit_ci_high,hit_ci_low,hit_rate,key,median_abs_err,median_design_share,n,n_scored,no_answer_rate,unweighted_route_rate
+0.7215,0.5063,0.6203,['deepseek-flash', 'code', 'base', 's120'],0.0,0.0,100,79,0.2785,0.0506
+0.26,0.11,0.18,['deepseek-flash', 'direct', 'base', 's120'],0.5362,0.3603,100,100,0.15,0.02

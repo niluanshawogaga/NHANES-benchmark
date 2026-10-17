@@ -1,0 +1,16 @@
+Model,Protocol,median delta,p25,p75,n
+deepseek-flash,Direct,0.83,-1.00,2.00,201
+deepseek-flash,Code,0.00,0.00,0.00,137
+deepseek-flash,SQL,0.00,-0.00,0.00,191
+deepseek-v4-pro,Direct,0.28,-1.00,2.00,205
+deepseek-v4-pro,Code,0.00,-0.00,0.00,160
+deepseek-v4-pro,SQL,0.00,-0.00,0.22,208
+phi-3.5-mini,Direct,1.11,-1.00,2.00,50
+phi-3.5-mini,Code,1.00,0.89,1.00,54
+phi-3.5-mini,SQL,1.00,0.81,1.00,34
+qwen2.5-3b,Direct,1.30,-1.00,2.00,201
+qwen2.5-3b,Code,1.00,0.45,1.00,64
+qwen2.5-3b,SQL,1.00,-1.00,2.00,93
+qwen2.5-7b,Direct,1.40,-1.00,2.00,66
+qwen2.5-7b,Code,0.95,-0.65,1.29,42
+qwen2.5-7b,SQL,0.00,-0.00,0.53,30

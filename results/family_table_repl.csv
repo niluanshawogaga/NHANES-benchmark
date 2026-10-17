@@ -1,0 +1,11 @@
+hit_ci_high,hit_ci_low,hit_rate,key,median_abs_err,median_design_share,n,n_scored,no_answer_rate,unweighted_route_rate
+0.6154,0.2308,0.4231,['deepseek-flash', 'code', 'association'],0.0,0.0,26,26,0.3846,0.0769
+0.4167,0.0,0.1667,['deepseek-flash', 'code', 'difference'],0.0,0.0,12,12,0.8333,0.0
+1.0,0.88,0.96,['deepseek-flash', 'code', 'mean'],0.0,0.0,25,25,0.04,0.0
+0.9375,0.5625,0.75,['deepseek-flash', 'code', 'proportion'],0.0,0.0,16,16,0.0625,0.125
+None,None,None,['deepseek-flash', 'code', 'ranking'],None,None,21,0,None,None
+0.3846,0.0769,0.2308,['deepseek-flash', 'direct', 'association'],0.1219,0.186,26,26,0.2308,0.0
+0.25,0.0,0.0833,['deepseek-flash', 'direct', 'difference'],0.1827,1.9487,12,12,0.0,0.0833
+0.44,0.12,0.28,['deepseek-flash', 'direct', 'mean'],3.3994,-0.016,25,25,0.0,0.04
+0.0,0.0,0.0,['deepseek-flash', 'direct', 'proportion'],37.8931,-1.0,16,16,0.0,0.0
+0.381,0.0476,0.1905,['deepseek-flash', 'direct', 'ranking'],None,None,21,21,0.4286,0.0

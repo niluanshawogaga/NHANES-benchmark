@@ -1,0 +1,9 @@
+numpy
+pandas
+pyarrow
+matplotlib
+requests
+transformers
+accelerate
+bitsandbytes
+torch
